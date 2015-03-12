@@ -71,7 +71,7 @@
   "dependencies": {
     "abbrev": "1.0.x",
     "async": "0.9.x",
-    "babel-core": "^4.7.8",
+    "babel-core": "4.7.x",
     "escodegen": "1.3.x",
     "esprima": "2.0.x",
     "fileset": "0.1.x",
@@ -81,7 +81,7 @@
     "nopt": "3.x",
     "once": "1.x",
     "resolve": "0.7.x",
-    "source-map": "^0.4.2",
+    "source-map": "0.4.x",
     "supports-color": "1.2.x",
     "which": "1.0.x",
     "wordwrap": "0.0.x"
